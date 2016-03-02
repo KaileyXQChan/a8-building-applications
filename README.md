@@ -9,7 +9,7 @@ Before submitting your assignment, please create a `Readme.md` file **in your re
 
 ##### 1. Did you receive any help from others (classmates, etc)? If so, please list who.
 
-> Answer goes here!
+> This was a little tricky so i got help from  my friend who helped me out with looking for the terms links and implementation on Google and stackoverflow
 
 ##### 2. Approximately how many hours did it take you to complete this challenge?
 
